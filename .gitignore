@@ -1,0 +1,31 @@
+# Secrets
+*.env
+.env
+secrets.py
+config.py
+
+# Storage keys and passwords
+*_key.txt
+*_password.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.Python
+env/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Power BI
+*.pbix
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Azure
+.azure/
